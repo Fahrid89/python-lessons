@@ -6,7 +6,7 @@ Created on Fri Jun 11 21:26:37 2021
 """
 
 
-number_of_terms = 5
+number_of_terms = 4
 start = 2
 sum = 0
 for i in range(0, number_of_terms):
